@@ -1,0 +1,7 @@
+set tabsize 4       # 设置制表符宽度
+set autoindent      # 允许自动缩进
+set smarthome       # 第一次 Home 跳到行首非空字符，第二次到行首
+set tabstospaces    # 展开制表符为空格
+set linenumbers     # 显示行号（在编辑时 ctrl+3 shift+3 切换）
+set multibuffer     # 使用 CTRL-r 读取文件时，默认读取到新缓存
+set nonewlines      # 不在文件末尾添加新行
