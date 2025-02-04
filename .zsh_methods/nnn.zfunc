@@ -1,3 +1,5 @@
+NNN_RAW_COMMAND=$(whence -p nnn)
+
 nnn ()
 {
     if [ -z "$NNN_RAW_COMMAND" ]; then
